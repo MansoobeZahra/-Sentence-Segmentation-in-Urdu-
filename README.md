@@ -1,6 +1,6 @@
 # Sentence-Segmentation-in-Urdu
 
-This repository contains the Urdu sentence segmentation code and small test files extracted from the ELIZA project. It includes an Urdu sentence segmenter, helper utilities, and example/test inputs.
+This repository contains the Urdu sentence segmentation code and small test files. It includes an Urdu sentence segmenter, helper utilities, and example/test inputs.
 
 Files included:
 
@@ -12,6 +12,3 @@ Usage
 -----
 Run the segmenter as a script or import `UrduSentenceSegmenter` from `segmenter.py`.
 
-Note
-----
-Push to `https://github.com/MansoobeZahra/-Sentence-Segmentation-in-Urdu-.git` as requested. Ensure you have rights to that repository on GitHub before pushing.
